@@ -1,3 +1,39 @@
+# React Employee Management System
 
-# react-employee-management-system
-A React-based Employee Management System for managing employee records with CRUD operations.
+## Project Description
+
+A React-based Employee Management System that allows users to manage employee records efficiently. Users can add, update, delete, and search employees through a simple and interactive interface.
+
+## Features
+
+* Add new employees
+* Update employee information
+* Delete employee records
+* Search employees by name
+* Display employee count
+* Dynamic employee list rendering using React
+
+## Tech Stack
+
+* React.js
+* JavaScript (ES6)
+* HTML5
+* CSS3
+* Vite
+
+## Concepts Used
+
+* React Components
+* useState Hook
+* Event Handling
+* Conditional Rendering
+* List Rendering
+* Form Handling
+
+## Project Screenshot
+
+![Employee Management System](screenshots/project.png)
+
+## Author
+
+Rohan Soni
