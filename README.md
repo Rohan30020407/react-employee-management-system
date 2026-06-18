@@ -32,7 +32,7 @@ A React-based Employee Management System that allows users to manage employee re
 
 ## Project Screenshot
 
-![Employee Management System](screenshots/project.png)
+![Employee Management System](screenshots/Screenshot_Employee_Management.png)
 
 ## Author
 
